@@ -1,1 +1,5 @@
+title: Sanctify
 theme: minima
+header_pages:
+  - index.md
+  - terms-of-use.md
