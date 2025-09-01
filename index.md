@@ -1,3 +1,7 @@
+---
+title: Sanctify Privacy Policy
+layout: default
+---
 Privacy Policy for Sanctify App
 
 Effective Date: 09/01/2025
