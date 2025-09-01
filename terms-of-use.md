@@ -1,3 +1,8 @@
+---
+title: Terms of Use
+layout: default
+permalink: /terms-of-use/
+---
 Terms of Use for Sanctify App
 
 Effective Date: 09/01/2025
