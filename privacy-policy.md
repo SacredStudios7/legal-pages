@@ -1,7 +1,7 @@
 ---
 title: Sanctify Privacy Policy
 layout: default
-permalink: /privacy-policy/
+permalink: /privacy-policy
 ---
 
 # Privacy Policy for Sanctify App
