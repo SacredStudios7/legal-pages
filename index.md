@@ -1,6 +1,6 @@
 ---
 title: Sanctify
-layout: page
+layout: default
 permalink: /
 ---
 
