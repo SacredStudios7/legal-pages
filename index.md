@@ -45,8 +45,8 @@ Experience Sanctify today! Download now and start your journey toward a deeper r
 
 ---
 
-**Terms of Use:** [https://sacredstudios.org/terms-of-use](https://sacredstudios.org/terms-of-use/)  
-**Privacy Policy:** [https://sacredstudios.org/privacy-policy](https://sacredstudios.org/privacy-policy/)
+**Terms of Use:** [https://sacredstudios.org/terms-of-use](https://sacredstudios.org/terms-of-use)  
+**Privacy Policy:** [https://sacredstudios.org/privacy-policy](https://sacredstudios.org/privacy-policy)
 
 ### **Download Sanctify today:**
 - [App Store](https://apps.apple.com/us/app/sanctify-prayers-guidance/id6751909914)
