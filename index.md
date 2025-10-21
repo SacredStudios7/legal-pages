@@ -1,191 +1,54 @@
-# Privacy Policy for Sanctify App
+---
+title: Sanctify
+layout: page
+permalink: /
+---
 
-**Effective Date: 09/01/2025**
+Have you taken a moment with God’s Word today? Join thousands of believers growing in faith with the top Christian app. Download Sanctify now!
 
-Welcome to Sanctify. We are committed to protecting your privacy and ensuring transparency about how we collect, use, and store your information.
+WHAT IS SANCTIFY
+Sanctify is a Christian app that offers daily devotionals, tailored prayers, and personalized Scripture to help us grow in our faith and deepen our relationship with God. Explore interactive Bible study, spiritual journaling, Guided Chat and more.
 
-⸻
+In today’s world, we’re overwhelmed, anxious, and distracted. At the same time, we’re searching for peace, purpose, and a stronger connection with God. We believe these two challenges can be answered with the same solution: walking daily with Jesus. In the end, after all, sanctification is the goal!
 
-### **1. INFORMATION WE COLLECT**
+WHAT YOU GET
+* Personalized Spiritual Guidance
+Start each day with personalized devotionals that understands your spiritual journey. Share what's on your heart, your struggles, questions, or celebrations and receive Scripture-based guidance, practical wisdom, and personalized prayers that speak directly to your situation.
 
-**1.1** Account & Authentication Information  
-• Email address and password (for email/password authentication)  
-• OAuth data from third-party providers:  
- • Google: Name, email, profile picture  
- • Apple Sign-In: Name, email (or private relay email)  
- • Facebook: Name, email, profile information  
-• Anonymous device identifiers for guest users (format: anon_{platform}{timestamp}{random}), stored locally until account creation  
+* Intelligent Bible Study Companion
+Transform Bible reading into meaningful dialogue. Access multiple translations and ask questions about any passage, verse, or spiritual concept. Get instant, thoughtful explanations that help you understand context, meaning, and practical application for your life.
 
-**1.2** Spiritual & Personal Information  
-• Onboarding data: First name, preferred pronouns, age group  
+* Contextual Daily Verses
+Receive carefully selected Scripture that speaks to your current season. We considers your recent conversations, prayer requests, and spiritual journey to deliver verses that provide exactly the comfort, strength, or direction you need.
 
-**1.3** AI Chat & Spiritual Guidance Data  
-• Chat conversations with the AI spiritual assistant  
-• Prayer requests, questions, and AI-generated responses  
-• Bible verse references, conversation context, and metadata  
+* Adaptive Prayer & Reflection
+End each day with prayer prompts tailored to your experiences and spiritual growth goals. Journal your prayers, track God's answers, and discover patterns of His faithfulness as you build a deeper relationship with Him.
 
-**1.4** Bible Study & Usage Data  
-• Daily verse interactions and reading history  
-• Chapter and verse access patterns, devotional engagement  
-• App feature usage metrics  
+* 24/7 Spiritual Counselor
+Have deep theological questions? Wrestling with doubt or life challenges? Ask anything, anytime from complex biblical interpretation to personal struggles and receive compassionate, biblically-grounded counsel that meets you where you are.
 
-**1.5** Subscription & Payment Information  
-• RevenueCat customer ID, transaction and subscription status  
-• Product IDs, platform details, renewal/expiration dates  
+* Personalized Devotional Journeys
+Choose from our curated devotional series that adapt to your spiritual maturity and interests. Whether you're dealing with anxiety, exploring your purpose, or strengthening your prayer life, each plan adjusts to your pace and provides relevant spiritual nourishment.
 
-**1.6** Technical & Device Information  
-• Device type, OS version, app version, platform  
-• Rate limiting metrics, error logs, crash reports  
+WHO IS SANCTIFY FOR?
+Sanctify is for anyone seeking a deeper relationship with God. Whether you’re new to faith, returning after time away, or longing to grow stronger in your walk with Christ, Sanctify adapts to your personal needs. Find answers to life’s questions, develop lasting habits, and experience peace through God’s Word.
 
-⸻
+SUBSCRIPTION PRICING AND TERMS
+Weekly Plan: $4.99/week (includes 3-day free trial)
+Annual Plan: $49.99/year (SAVE 80%)
+Sanctify offers both weekly and annual auto-renewing subscription options for access. The weekly plan includes a 3-day free trial to experience all features. Payment is charged to your iTunes account upon confirmation. Manage or cancel anytime in your account settings. Subscriptions renew automatically unless canceled before the current period ends. Any unused portion of a free trial will be forfeited once a subscription is purchased.
 
-### **2. HOW WE USE YOUR INFORMATION**
+Experience Sanctify today! Download now and start your journey toward a deeper relationship with God!
 
-**2.1** Core App Functionality  
-• Deliver personalized spiritual guidance based on your background  
-• Generate Bible-based responses tailored to your profile  
-• Provide daily verses and track growth through usage patterns  
-• Enable cross-device sync of your spiritual journey  
+————————————————
 
-**2.2** AI Processing & Personalization  
-• Send anonymized chat data to OpenAI for guidance generation  
-• Include spiritual profile context for relevant responses  
-• Recommend Bible verses tailored to your spiritual needs  
+Terms of Use: https://sacredstudios.org/terms-of-use/
+Privacy Policy: https://sacredstudios.org/
 
-**2.3** Subscription Management  
-• Process subscriptions via RevenueCat  
-• Validate subscription status and feature access  
-• Provide billing support through app store platforms  
+Download Sanctify today:
+- [App Store](https://apps.apple.com/us/app/sanctify-prayers-guidance/id6751909914)
+- [Google Play](https://play.google.com/store/apps/details?id=com.sacredstudios.sanctify&hl=en_US)
 
-⸻
+---
 
-### **3. DATA SHARING & THIRD-PARTY SERVICES**
-
-**3.1** AI Processing Partners  
-• OpenAI (ChatGPT)  
-• Data shared: Anonymized spiritual questions and context  
-• Purpose: Generate scriptural guidance  
-• Retention: Per OpenAI’s privacy policy  
-
-**3.2** Authentication Providers  
-• Google, Apple, and Facebook for account creation and login  
-
-**3.3** Backend & Infrastructure  
-• Supabase: Stores all user data, with Row Level Security enabled  
-• Data encrypted at rest and in transit  
-
-**3.4** Subscription Processing  
-• RevenueCat: Manages and validates in-app purchases  
-
-**3.5** Bible Content APIs  
-• PublicBibleAPI: Provide biblical text  
-
-⸻
-
-### **4. DATA SECURITY & ENCRYPTION**
-
-**4.1** Local Device Security  
-• iOS Keychain / Android Keystore for encrypted local storage  
-• Secure deletion on logout  
-
-**4.2** Database Security  
-• Encrypted database (Supabase)  
-• HTTPS/TLS for all connections  
-• Row Level Security (RLS) to isolate user data  
-
-**4.3** Anonymous User Protection  
-• No cross-device tracking  
-• Anonymous data deleted or migrated upon signup  
-
-⸻
-
-### **5. DATA RETENTION & DELETION**
-
-**5.1** Account Data  
-• Retained while active; deleted within 30 days of account deletion  
-• Subscription data may be retained for legal compliance (up to 7 years)  
-
-**5.2** Chat & Spiritual Data  
-• Stored locally with encryption and deleted on logout/uninstall  
-• Retained in the database until account deletion  
-
-**5.3** Anonymous User Data  
-• Automatically purged after 90 days or migrated upon signup  
-
-⸻
-
-### **6. USER RIGHTS & CONTROLS**
-
-**6.1** Data Access Rights  
-• Request data export in JSON format  
-• Download conversation history and usage logs  
-
-**6.2** Data Deletion Rights  
-• Request full account deletion  
-• Selectively delete specific content  
-
-**6.3** Data Portability  
-• Exports available in JSON and CSV  
-• Fulfilled within 30 days  
-
-⸻
-
-### **7. SPECIAL CONSIDERATIONS FOR SPIRITUAL DATA**
-
-**7.1** Sensitivity of Religious Information  
-• Treated as sensitive data  
-• Not used for advertising or profiling  
-
-**7.2** AI Guidance Disclaimers  
-• Not a substitute for pastoral care  
-• Based on widely accepted Christian doctrine  
-
-**7.3** Crisis Situations  
-• Links to emergency hotlines and professional referrals provided  
-
-⸻
-
-### **8. CHILDREN’S PRIVACY (COPPA)**
-
-**8.1** Age Restrictions  
-• Intended for users 13+  
-• Parental consent required under 13  
-
-⸻
-
-### **9. INTERNATIONAL USERS**
-
-**9.1** GDPR (EU)  
-• Legal basis: Consent and legitimate interest  
-• Data controller: Sacred Studios LLC  
-• Standard contractual clauses for transfers  
-
-**9.2** CCPA (California)  
-• We do not sell personal data  
-• Right to know, delete, and opt out upheld  
-
-⸻
-
-### **10. UPDATES & NOTIFICATIONS**
-
-**10.1** Policy Changes  
-• Notice given via email and in-app messages 30 days in advance  
-
-**10.2** Breach Notification  
-• Notified within 72 hours  
-• Reported per law  
-
-⸻
-
-### **11. CONTACT INFORMATION**
-
-**11.1** Privacy Inquiries  
-• Email: support@sacredstudios.org  
-• We aim to respond within 30 days  
-
-**11.2** Data Protection Officer (DPO)  
-• Email: support@sacredstudios.org  
-
-⸻
-
-Thank you for trusting Sanctify. We treat your data with the same care we offer our prayers.
+**Contact:** support@sacredstudios.org
