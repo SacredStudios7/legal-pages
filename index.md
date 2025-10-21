@@ -4,10 +4,6 @@ layout: default
 permalink: /
 ---
 
-**Have you taken a moment with God's Word today?**
-
-**Join thousands of believers growing in faith with the top Christian app. Download Sanctify now!**
-
 ## **WHAT IS SANCTIFY**
 
 Sanctify is a Christian app that offers daily devotionals, tailored prayers, and personalized Scripture to help us grow in our faith and deepen our relationship with God. Explore interactive Bible study, spiritual journaling, Guided Chat and more.
