@@ -1,7 +1,7 @@
 ---
 title: Terms of Use
 layout: default
-permalink: /terms-of-use/
+permalink: /terms-of-use
 ---
 
 # Terms of Use for Sanctify App
